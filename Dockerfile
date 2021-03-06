@@ -1,3 +1,4 @@
-FROM hshat/webapp
+
+FROM pandurangshinde190/centralrepo
 ADD . /var/www/html
 
